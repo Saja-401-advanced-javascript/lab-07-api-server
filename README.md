@@ -1,35 +1,31 @@
-# LAB - Class xx
+# LAB - Class 07
 
-## Project Name
+## Express
 
-### Author: Student/Group Name
+### Author: Saja Swalgah
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [submission PR](https://github.com/Saja-401-advanced-javascript/lab-07-api-server/pull/1)
+- [ci/cd](https://github.com/Saja-401-advanced-javascript/lab-07-api-server/runs/411909261?check_suite_focus=true)
+
 
 ### Setup
 
-#### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 8080
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+-  `npm run start`
+- `nodemon`
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests? npm run test
+
+
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![](img/class-07.jpg)
