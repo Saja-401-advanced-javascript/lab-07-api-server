@@ -1,7 +1,7 @@
 {
   "name": "lab-07-api-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Express",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -30,5 +30,6 @@
     "method-override": "^3.0.0",
     "supertest": "^4.0.2",
     "uuid": "^3.4.0"
-  }
+  },
+  "devDependencies": {}
 }
